@@ -75,7 +75,16 @@ img{
     background-image: url("../../resources/images/menu_hamburger_32.png")
 }
 
+.services-container .learn-subject-box{
+    padding:40px;
+    border-radius: 10px;
+}
 
+.services-container p{
+    color:#000;
+    font-size: 20px;
+    font-weight:600;
+}
 
 .footer{
     color: #fff;
